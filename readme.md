@@ -1,5 +1,9 @@
 # eslint-config-xo
 
+---
+We forked `eslint-config-xo` due to an internal artifactory name collision. This is for testing.
+---
+
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) for [XO](https://github.com/xojs/xo)
 
 This is for advanced users. [You probably want to use XO directly.](#use-the-xo-cli-instead)
